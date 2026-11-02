@@ -1,0 +1,32 @@
+Order_ID,Customer_ID,Customer_Name,Order_Date,Sales_Channel,Platform,Product,Category,Quantity,Unit_Price,Unit_Cost,Order_Status,City,State,Customer_Type,Region,Revenue,Profit,Month,Profit Margin %
+1001,C001,Asha Rao,05-01-2026,Online,Amazon,Laptop,Electronics,1,52000,45000,Delivered,Bengaluru,Karnataka,Retail,South,52000,7000,Jan,13.46
+1002,C002,Ravi Kumar,06-01-2026,Store,In-Store,Mouse,Accessories,2,700,400,Delivered,Mysuru,Karnataka,Retail,South,1400,600,Jan,42.86
+1003,C003,Neha Shah,07-01-2026,Online,Flipkart,Keyboard,Accessories,1,1500,900,Returned,Pune,Maharashtra,Retail,West,1500,600,Jan,40.00
+1004,C004,Imran Ali,08-01-2026,Online,Amazon,Monitor,Electronics,2,12000,9500,Delivered,Hyderabad,Telangana,B2B,South,24000,5000,Jan,20.83
+1005,C005,Priya Das,09-01-2026,Store,In-Store,Usb Cable,Accessories,3,250,100,Cancelled,Kolkata,West Bengal,Retail,East,750,450,Jan,60.00
+1006,C006,Arjun Nair,10-01-2026,Online,Myntra,Headphones,Electronics,1,3200,2100,Delivered,Kochi,Kerala,Retail,South,3200,1100,Jan,34.38
+1007,C007,Sara Khan,11-01-2026,Online,Amazon,Webcam,Electronics,1,2800,1700,Delivered,Jaipur,Rajasthan,Retail,North,2800,1100,Jan,39.29
+1008,C008,Vikram Singh,12-01-2026,Online,Flipkart,Laptop,Electronics,1,52000,45000,Delivered,Delhi,Delhi,B2B,North,52000,7000,Jan,13.46
+1009,C009,Meera Iyer,13-01-2026,Store,In-Store,Mouse,Accessories,1,700,400,Refunded,Chennai,Tamil Nadu,Retail,South,700,300,Jan,42.86
+1010,C010,Kabir Bose,14-01-2026,Online,Amazon,Monitor,Electronics,1,12000,9500,Delivered,Kolkata,West Bengal,Retail,East,12000,2500,Jan,20.83
+1011,C011,Tara Menon,15-01-2026,Online,Myntra,Headphones,Electronics,2,3200,2100,Delivered,Bengaluru,Karnataka,Retail,South,6400,2200,Jan,34.38
+1012,C012,Dev Patel,16-01-2026,Online,Flipkart,Keyboard,Accessories,2,1500,900,Delivered,Ahmedabad,Gujarat,B2B,West,3000,1200,Jan,40.00
+1013,C013,Asha Rao,05-01-2026,Online,Amazon,Laptop,Electronics,1,52000,45000,Delivered,Bengaluru,Karnataka,Retail,South,52000,7000,Jan,13.46
+1014,C014,Rohan Gill,18-01-2026,Online,Amazon,Tablet,Electronics,1,18000,13000,Delivered,Chandigarh,Chandigarh,Retail,North,18000,5000,Jan,27.78
+1015,C015,Lina Paul,19-01-2026,Store,In-Store,Usb Cable,Accessories,0,250,100,Delivered,Kochi,Kerala,Retail,South,0,0,Jan,#NUM!
+1016,C016,Omar Sheikh,20-01-2026,Online,Flipkart,Monitor,Electronics,1,12000,9500,Delivered,Lucknow,Uttar Pradesh,B2B,North,12000,2500,Jan,20.83
+1017,C017,Anaya Roy,21-01-2026,Online,Amazon,Headphones,Electronics,1,3200,2100,Delivered,Mumbai,Maharashtra,Retail,West,3200,1100,Jan,34.38
+1018,C018,Nikhil Jain,22-01-2026,Online,Myntra,Mouse,Accessories,2,700,400,Delivered,Indore,Madhya Pradesh,Retail,Central,1400,600,Jan,42.86
+1019,C019,Isha Reddy,23-01-2026,Unknown,Amazon,Keyboard,Accessories,1,1500,900,Delivered,Hyderabad,Telangana,Retail,South,1500,600,Jan,40.00
+1020,C020,Farah Ahmed,24-01-2026,Online,Unknown,Tablet,Electronics,1,18000,13000,Returned,Patna,Bihar,Retail,East,18000,5000,Jan,27.78
+1021,C021,Karan Verma,25-01-2026,Online,Amazon,Laptop,Electronics,1,52000,45000,Delivered,Delhi,Delhi,B2B,North,52000,7000,Jan,13.46
+1022,C022,Maya Joshi,26-01-2026,Online,Myntra,Webcam,Electronics,1,2800,1700,Delivered,Nagpur,Maharashtra,Retail,West,2800,1100,Jan,39.29
+1023,C023,Sana Qureshi,27-01-2026,Online,Amazon,Usb Cable,Accessories,4,250,100,Delivered,Bhopal,Madhya Pradesh,Retail,Central,1000,600,Jan,60.00
+1024,C024,Yash Mehta,28-01-2026,Online,Flipkart,Monitor,Electronics,1,12000,9500,Delivered,Surat,Gujarat,B2B,West,12000,2500,Jan,20.83
+1025,C025,Anika Sen,29-01-2026,Store,In-Store,Keyboard,Accessories,1,1500,900,Delivered,Kolkata,West Bengal,Retail,East,1500,600,Jan,40.00
+2001,C026,Nikhil Jain,03-01-2026,Online,Unknown,Laptop,Electronics,1,52000,45000,Returned,Patna,Bihar,Retail,East,52000,7000,Jan,13.46
+2002,C027,Isha Reddy,04-01-2026,Online,Amazon,Mouse,Accessories,2,700,400,Delivered,Delhi,Delhi,B2B,North,1400,600,Jan,42.86
+2003,C028,Farah Ahmed,05-01-2026,Online,Myntra,Monitor,Electronics,1,12000,9500,Delivered,Nagpur,Maharashtra,Retail,West,12000,2500,Jan,20.83
+2004,C029,Karan Verma,02-02-2026,Online,Amazon,Keyboard,Accessories,1,1500,900,Delivered,Bhopal,Madhya Pradesh,Retail,Central,1500,600,Feb,40.00
+2005,C030,Maya Joshi,03-02-2026,Online,Flipkart,Tablet,Electronics,1,18000,13000,Delivered,Surat,Gujarat,B2B,West,18000,5000,Feb,27.78
+2006,C031,Sana Qureshi,04-02-2026,Store,In-Store,Headphones,Electronics,2,3200,2100,Delivered,Kolkata,West Bengal,Retail,East,6400,2200,Feb,34.38
